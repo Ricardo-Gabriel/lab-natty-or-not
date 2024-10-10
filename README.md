@@ -18,18 +18,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
 ### Template
-
+Narração de uma aventura de RPG 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Breve descrição de uma batalha epica entre 3 aventureiros e o poder da amizade , contra um dragão lendario....
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+https://chatgpt.com ---Criação da Aventura
+https://elevenlabs.io/app/speech-synthesis/text-to-speech ---Narração
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+prompt utilizado para a criação do texto: "crie uma sessão de RPG , onde existem 3 jogadores; Ricardo o mago ; Bruno o barbaro ; Douglas o Ladino. Eles então em uma batalha muito dificil contra um dragão lendario e conseguem vencer no final com muita dificuldade, graças ao poder da amizade."
+
+
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto

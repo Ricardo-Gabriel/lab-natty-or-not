@@ -36,7 +36,7 @@ prompt utilizado para a criação do texto: "crie uma sessão de RPG , onde exis
 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+No repositorio se encontra o audio gerado utilizando as ferramentas mensionadas acima.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
